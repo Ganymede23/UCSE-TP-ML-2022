@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pb
+*.gz
+*.DESKTOP-2RKNG0D
+*.profile-empty
